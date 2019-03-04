@@ -40,6 +40,7 @@
 - apollo client/server driver
 - Node.js (server) || GoLand
 - neo4j (DB)
+- Open Street Map
 - docker (deployment)
 - AWS stack (EC2, pipeline, cloudfront, codebuild, codecommit, S3) (infrastructure)
 
