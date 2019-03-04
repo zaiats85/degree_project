@@ -2,3 +2,6 @@
 2) GraphQL specification https://graphql.org/learn/
 3) Offline Capabilities - http://www.petecorey.com/blog/2017/07/24/offline-graphql-queries-with-redux-offline-and-apollo/?from=east5th.co
 4) Apollo Server
+5) don't use localstorage https://www.rdegges.com/2018/please-stop-using-local-storage/
+6) XSS https://blog.codinghorror.com/protecting-your-cookies-httponly/
+7)
