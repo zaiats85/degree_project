@@ -21,9 +21,12 @@
 - організація навчання персоналу прокатів
 
 ## `для розробника:`
-- вибір технологій розробки. ріст. досвід.  
+- вибір технологій розробки. ріст. досвід.
+- greenfield project. 
+- no legacy. the latest the greatest. 
+- full test covarage. 
 
-## `Економічне обгрунтування`
+## `Економічне Обгрунтування`
 На прикладі ТК "Буковель" можна стверджувати, що прокат г/л спорядження є 4 статтею доходів курорту після:  
 - катання (абонементи - денні, річні, погодинні тощо)
 - проживання (готелі, садиби, camping тощо) 
@@ -33,6 +36,8 @@
 ## `Використані Технології`
 - react.js (client)
 - graphQL. Apollo Client (communication)
+  https://facebook.github.io/graphql/June2018/
+- apollo client/server driver
 - Node.js (server) || GoLand
 - neo4j (DB)
 - docker (deployment)

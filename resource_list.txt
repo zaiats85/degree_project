@@ -1,0 +1,4 @@
+1) React specification https://reactjs.org/
+2) GraphQL specification https://graphql.org/learn/
+3) Offline Capabilities - http://www.petecorey.com/blog/2017/07/24/offline-graphql-queries-with-redux-offline-and-apollo/?from=east5th.co
+4) Apollo Server
