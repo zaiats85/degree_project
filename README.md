@@ -38,18 +38,17 @@
 - graphQL. Apollo Client (communication)
   https://facebook.github.io/graphql/June2018/
 - apollo client/server driver
-- Node.js (server) || GoLand
+- Node.js (server) || GoLang
 - neo4j (DB)
 - Open Street Map
 - docker (deployment)
 - AWS stack (EC2, pipeline, cloudfront, codebuild, codecommit, S3) (infrastructure)
 
-## `Мета` 
-Просто так. Щоб поставити жирну крапку в цій дурній затії і написати курсову.
-
 *Включаючи прилеглі с.Яблуниця, c.Татрів, c.Поляниця, с.Микуличин. 
 ** Або паспортів громадянина інших держав
 
+## `Мета` 
+Просто так. Щоб поставити жирну крапку в цій дурній затії і написати курсову.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
