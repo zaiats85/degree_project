@@ -4,4 +4,5 @@
 4) Apollo Server
 5) don't use localstorage https://www.rdegges.com/2018/please-stop-using-local-storage/
 6) XSS https://blog.codinghorror.com/protecting-your-cookies-httponly/
-7)
+7) https://blog.apollographql.com/apollo-link-the-modular-graphql-network-stack-3b6d5fcf9244
+8)
