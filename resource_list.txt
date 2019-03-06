@@ -5,4 +5,9 @@
 5) don't use localstorage https://www.rdegges.com/2018/please-stop-using-local-storage/
 6) XSS https://blog.codinghorror.com/protecting-your-cookies-httponly/
 7) https://blog.apollographql.com/apollo-link-the-modular-graphql-network-stack-3b6d5fcf9244
-8)
+8) https://askubuntu.com/questions/510811/what-is-the-difference-between-ctrl-z-and-ctrl-c-in-the-terminal
+9) schema in depth https://www.prisma.io/blog/graphql-server-basics-the-schema-ac5e2950214e
+10) graphql network layer https://www.prisma.io/blog/graphql-server-basics-the-network-layer-51d97d21861
+11) middleware express https://expressjs.com/en/guide/writing-middleware.html
+12)
+13)

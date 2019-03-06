@@ -1,18 +1,15 @@
 {
-  "name": "hackernews-node",
+  "name": "server",
   "version": "1.0.0",
-  "license": "MIT",
+  "description": "graphql node server",
+  "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "prisma": "prisma"
+    "test": "npm test"
   },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "graphql-yoga": "^1.7.0",
-    "jsonwebtoken": "^8.2.0",
-    "prisma-client-lib": "^1.22.2"
-  },
-  "devDependencies": {
-    "prisma": "^1.23.0"
+    "graphql-yoga": "^1.17.4"
   }
 }
