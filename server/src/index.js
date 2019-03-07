@@ -1,4 +1,9 @@
+const Query = require('./resolvers/Query')
+const Mutation = require('./resolvers/Mutation')
+const User = require('./resolvers/User')
+const Link = require('./resolvers/Link')
 const {GraphQLServer} = require('graphql-yoga');
+const { prisma } = require('./generated/prisma-client');
 
 let members = [
     {
@@ -87,47 +92,23 @@ let links = [
     }
 ];
 
-let idCount = links.length;
-
 const resolvers = {
-    Query: {
-        info: () => `This is the API of Hackernews WhatEver Clone`,
-        feed: () => links,
-        people: () => members,
-        link: (parent, args) => links.find(item => item.id === args.id)
-    },
-
-    Mutation: {
-        updateLink: (parent, args) => {
-            return links.map(item => {
-                if(item.id === args.id){
-                    item.description = args.description
-                    item.url = args.url
-                }
-                return item
-            });
-        },
-
-        deleteLink: (parent, args) => {
-            links = links.filter(item => item.id !== args.id)
-        },
-
-        post: (parent, args) => {
-            const link = {
-                id: `link-${idCount++}`,
-                description: args.description,
-                url: args.url,
-            };
-            links.push(link);
-            return link
-        }
-    },
-};
+    Query,
+    Mutation,
+    User,
+    Link
+}
 
 
 const server = new GraphQLServer({
     typeDefs: './src/schema.graphql',
-    resolvers
+    resolvers,
+    context: request => {
+        return {
+            ...request,
+            prisma,
+        }
+    },
 });
 
 server.start(() => console.log(`Server is running on http://localhost:4000`));
