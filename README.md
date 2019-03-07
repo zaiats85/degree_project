@@ -50,6 +50,9 @@
 ### `Мета` 
 Просто так. Щоб поставити жирну крапку в цій дурній затії і написати курсову.
 
+[motivation](https://www.youtube.com/watch?v=FhzNSPiqO0M)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
