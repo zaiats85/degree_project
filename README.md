@@ -2,13 +2,12 @@ Degree Project
 Thema: "Online platform. Ski Rent" 
 
 ### `Idea:`
-In response to numerous ski rent points existanse, in the area of popular ukrainian ski resorts: Bukovel (n=180*),
-Dragobrat (n=40), Slavske (n=60) there is an idea to logically combine them in a single digital network, solving the following tasks
+In response to the existence of numerous ski rent points, in the popular Ukrainian ski resorts of Bukovel (n=180*), Dragobrat (n=40) and Slavske (n=60) there is an idea to logically combine them into a single digital network, solving the following issues:
   
 #### `for Vacationers:`
 - market (non speculative) prices for inventory
 - pre-order online
-- invertory availability monitoring
+- inventory availability monitoring
 - reviews, complaints and encouragements, discussions, situational chats, help.
 
 #### `for rent Owners:` 
@@ -19,16 +18,17 @@ Dragobrat (n=40), Slavske (n=60) there is an idea to logically combine them in a
 - client service automation
 
 #### `for Product Owners:`
-- brokerage Fee (<5%) each sucessfull rent. 
-- Ski rent personell educational courses.
+- brokerage Fee (<5%) each successful rent
+- Ski rent personnel educational courses.
 
 #### `for Developers:`
 - greenfield project. The latest the Greatest. 
  
 ### `feasibility study`
-Setting SR "Bukovel" as a initial point, one can state, that Winter Sports Gear Rent is its 4th source of revenue, right after:    
+Setting SR "Bukovel" as an initial point, one can state, that Winter Sports Gear Rent is its 4th source of revenue, right after:
+
 - skipasses (all-day, night, annual, hourly etc).
-- accomodation (hotesls, guest houses, campings etc) 
+- accommodation (hostels, guest houses, camping etc)
 - ski & snowboard school
 and is worth 15% - 20%
 
@@ -38,21 +38,20 @@ and is worth 15% - 20%
 ### `Purpose` 
 Upon local business request and as part of Degree Project with practical use.
 
-### `Critisism or 'you wont make it''`
+### `Criticism or 'you wont make it'`
  - owners unwilling to cooperate
  - ski rent operators unwilling to enter client and transaction data into system
  - without a team (developers, manager) 
  - without funds
  
  ### `Review`
- To my professional opinion, project tends to help solving an important matter for west ukrainian region - 
- touristic business automation. Ski rents owners and Vacationers woould bring their relations to the next level.     
- According to 2017 statistic report (available https://invest.bukovel.com/en/) there were around 1,8 million visitors in Bukovel only. 
- Assuming that 25% of them have rented the gear - one might expect high volume of potential system users, a fact that 25% of al the vacantioners are foreigners is worth mentioning also. Increasing service quality 
- and providing a transparent rent instrument would definately facilitate tourism in Ukraine. With proper approach system might be developed and implemented in short terms. Among the main advantages, one can emphasize: 
-  - simplified booking 
-  - optimized financial planing for companies
- The service described, can be significantly improved, with a promotion actions (discounts, coupons) in order to additionally motivate the users.  
+ In my professional opinion, the project tends to help solve an important matter for the West Ukrainian region - touristic business automation. Ski rents owners and Vacationers would bring their relations to the next level.     
+ According to the 2017 statistical report (https://invest.bukovel.com/en/) there were around 1.8 million visitors in Bukovel only. Assuming that 25% of them have rented the gear - one might expect a high volume of potential system users. A fact that 25% of all the vacationers are foreigners is worth mentioning also. Increasing service quality and providing a transparent rent instrument would definitely facilitate tourism in Ukraine. With the proper approach the system might be developed and implemented in short terms.
+
+Among the main advantages, one can emphasize:
+
+simplified booking
+optimized financial planning for companies The service described can be significantly improved with a promotion actions (discounts, coupons) in order to additionally motivate the users.
  
  Anastasiia Lytvynenko 
  Project Manager 
