@@ -133,6 +133,7 @@ DB:
 
 Infrastructure: 
 - Terraform
+- Jenkins
  
 Environment: 
 - Google Cloud Platform | AWS EC2
