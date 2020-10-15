@@ -120,21 +120,22 @@ perfectial.com
 ### `Запропоновані Технології/Offered Tech Stack***`
 Frontend:
 - Angular 9
-- Angular Material
 
 Backend:
-- Java Spring Boot
+- Java Spring Boot 
 - Node Express
 
 DB: 
 - Postgres
 - Mongo
+- ElasticSearch 
+- Redis
 
 Infrastructure: 
 - Terraform
  
 Environment: 
-- Google Cloud Platform
+- Google Cloud Platform | AWS EC2
 - Kubernetes (k8s)
 - Docker
 - Jenkins
@@ -144,8 +145,7 @@ Microservices:
 - Request Validation (Go)
 
 AWS services: 
-- EC2
-- Elastic Search 
+- EC2 
 - Cognito Login
 
 *** відкриті для пропозицій/negotiable
